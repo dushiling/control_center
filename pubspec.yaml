@@ -1,6 +1,6 @@
 name: control_center
-description: Control flash light switch.
-version: 0.0.1
+description: Control flash light switch.Widget functionality will continue to be added.
+version: 0.0.2
 homepage: https://github.com/dushiling
 repository: https://github.com/dushiling/control_center
 

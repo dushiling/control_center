@@ -1,0 +1,32 @@
+name: control_center
+description: Control flash light switch.
+version: 0.0.1
+homepage: https://github.com/dushiling
+repository: https://github.com/dushiling/control_center
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  plugin:
+    platforms:
+      android:
+        package: com.example.control_center
+        pluginClass: ControlCenterPlugin
+      ios:
+        pluginClass: ControlCenterPlugin
+
+

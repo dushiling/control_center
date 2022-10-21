@@ -1,9 +1,6 @@
 import Flutter
 import UIKit
 import AVFoundation
-// import CoreBluetooth
-//
-// var manager:CBCentralManager!
 
 public class SwiftControlCenterPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {

@@ -1,6 +1,6 @@
 # control_center
 
-Control some of the center widget functions, such as: turn on and off the flash.
+Control flash light switch. Get the battery power, get the phone system version.
 
 ## Usage
 

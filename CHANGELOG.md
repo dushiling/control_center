@@ -1,3 +1,3 @@
-## 0.0.3
+## 0.0.4
 
-* Refine the description
+* Refine the README.md

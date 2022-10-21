@@ -1,6 +1,6 @@
 name: control_center
 description: Control flash light switch. Get the battery power, get the phone system version.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/dushiling
 repository: https://github.com/dushiling/control_center
 
